@@ -4,3 +4,5 @@
 This project is used for practicing pulling data from an endpoint from the website https://jsonplaceholder.typicode.com/
 
 Uses React with Hooks and Tailwind for some styling.
+
+#1. Pulling endpoint named 'posts' and iterating over the data I need to show on screen. 
